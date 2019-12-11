@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BuscaBus - Meu Onibus</string>
+
+    <string name="Txt_Inicio">BuscaBus</string>
+    <string name="Txt_LinhasCFenix">Consórcio Fênix</string>
+
+    <string name="Btn_Horarios">Horários</string>
+    <string name="Btn_Mapa">Mapa</string>
+    <string name="Btn_CFenix">Consórcio Fênix</string>
+    <string name="Btn_Biguacu">Biguaçu</string>
+    <string name="Btn_Estrela">Estrela</string>
+    <string name="Btn_Imperatriz">Imperatriz</string>
+    <string name="Btn_Jotur">Jotur</string>
+    <string name="Btn_STerezinha">Santa Terezinha</string>
+    <string name="title_activity_act__empresas__cfenix__horarios2">Act_Empresas_CFenix_Horarios2
+    </string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
