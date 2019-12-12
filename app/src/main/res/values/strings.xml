@@ -3,6 +3,11 @@
 
     <string name="Txt_Inicio">BuscaBus</string>
     <string name="Txt_LinhasCFenix">Consórcio Fênix</string>
+    <string name="Txt_LinhasBiguacu">Biguaçu</string>
+    <string name="Txt_LinhasEstrela">Estrela</string>
+    <string name="Txt_LinhasImperatriz">Imperatriz</string>
+    <string name="Txt_LinhasJotur">Jotur</string>
+    <string name="Txt_LinhasSTerezinha">Santa Terezinha</string>
 
     <string name="Btn_Horarios">Horários</string>
     <string name="Btn_Mapa">Mapa</string>
@@ -14,6 +19,5 @@
     <string name="Btn_STerezinha">Santa Terezinha</string>
     <string name="title_activity_act__empresas__cfenix__horarios2">Act_Empresas_CFenix_Horarios2
     </string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+
 </resources>

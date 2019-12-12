@@ -309,10 +309,291 @@ public class Act_Empresas_CFenix_Horarios extends AppCompatActivity {
             case "296 - Circular Santinho/Ingleses":
                 WebView.loadUrl("https://www.consorciofenix.com.br/horarios/circular-santinho-ingleses,296");
                 break;
-            case "":
-                WebView.loadUrl("");
+            case "300 - Madrugadão Leste":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/madrugadao-leste,300");
                 break;
-
+            case "3001 - Executivo Abraão-UFSC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-abraao-ufsc,3001");
+                break;
+            case "3002 - Executivo Jardim Atlântico-UFSC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-jardim-atlantico-ufsc,3002");
+                break;
+            case "311 - TILAG-TICEN Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-ticen-direto,311");
+                break;
+            case "320 - TILAG-TICEN via Beira Mar":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-ticen-via-beira-mar,320");
+                break;
+            case "330 - TILAG-TICEN via Mauro Ramos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-ticen-via-mauro-ramos,330");
+                break;
+            case "331 - TISAN-TICEN via Mauro Ramos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tisan-ticen-via-mauro-ramos,331");
+                break;
+            case "332 - TISAN-TICEN via Beira Mar":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tisan-ticen-via-beira-mar,332");
+                break;
+            case "333 - TILAG-TITRI via Madre Benvenuta":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-titri-via-madre-benvenuta,333");
+                break;
+            case "360 - Barra da Lagoa":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/barra-da-lagoa,360");
+                break;
+            case "362 - Canto dos Araças":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/canto-dos-aracas,362");
+                break;
+            case "363 - Joaquina":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/joaquina,363");
+                break;
+            case "364 - Osni Ortiga":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/osni-ortiga,364");
+                break;
+            case "365 - Sambaqui":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/sambaqui,365");
+                break;
+            case "366 - Barra do Sambaqui via Padre Rohr":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/barra-do-sambaqui-via-padre-rohr,366");
+                break;
+            case "410 - TIRIO-TICEN Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tirio-ticen-direto,410");
+                break;
+            case "4120 - Executivo Pântano do Sul via Eucaliptos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-pantano-do-sul-via-eucaliptos,4120");
+                break;
+            case "4121 - Executivo Pântano do Sul via Campeche":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-pantano-do-sul-via-campeche,4121");
+                break;
+            case "4122 - Executivo Campeche":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-campeche,4122");
+                break;
+            case "4123 - Executivo Ribeirão da Ilha":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-ribeirao-da-ilha,4123");
+                break;
+            case "4124 - Executivo Caieira Barra do Sul via Tapera":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-caieira-da-barra-do-sul-via-tapera,4124");
+                break;
+            case "4125 - Executivo Pântano do Sul via Gramal":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-pantano-do-sul-via-gramal,4125");
+                break;
+            case "430 - TIRIO-TICEN via Costeira":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tirio-ticen-via-costeira,430");
+                break;
+            case "431 - TICEN-Aeroporto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/ticen-aeroporto,431");
+                break;
+            case "460 - Porto da Lagoa":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/porto-da-lagoa,460");
+                break;
+            case "461 - Tapera via Túnel":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tapera-via-tunel,461");
+                break;
+            case "462 - Campeche":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/campeche,462");
+                break;
+            case "463 - Castanheiras via Eucaliptos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/castanheiras-via-eucaliptos,463");
+                break;
+            case "464 - Castanheiras via Gramal":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/castanheiras-via-gramal,464");
+                break;
+            case "467 - Tapera/Saco dos Limões":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tapera-saco-dos-limoes,467");
+                break;
+            case "468 - TIRIO-Aeroporto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tirio-aeroporto,468");
+                break;
+            case "469 - Tapera-Rio Tavares":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tapera-rio-tavares,469");
+                break;
+            case "470 - Tapera-TITRI":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tapera-titri,470");
+                break;
+            case "472 - Campeche via Capela":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/campeche-via-capela,472");
+                break;
+            case "473 - Morro das Pedras via Eucaliptos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-das-pedras-via-eucaliptos,473");
+                break;
+            case "474 - Morro das Pedras via Gramal":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-das-pedras-via-gramal,474");
+                break;
+            case "477 - Circular Tapera-Aeroporto-Carianos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/circular-tapera-aeroporto-carianos,477");
+                break;
+            case "500 - Madrugadão Sul":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/madrugadao-sul,500");
+                break;
+            case "561 - Caieira da Barra do Sul":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/caieira-da-barra-do-sul,561");
+                break;
+            case "562 - Costa de Cima":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/costa-de-cima,562");
+                break;
+            case "563 - Costa de Dentro":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/costa-de-dentro,563");
+                break;
+            case "564 - Pântano do Sul":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/pantano-do-sul,564");
+                break;
+            case "565 - Ribeirão da Ilha":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/ribeirao-da-ilha,565");
+                break;
+            case "566 - Caieira via Tapera":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/caieira-via-tapera,566");
+                break;
+            case "600 - Madrugadão Continente":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/madrugadao-continente,600");
+                break;
+            case "601 - Circular Abraão-Estreito":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/circular-abraao-estreito,601");
+                break;
+            case "605 - Circular Estreito-Abraão":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/circular-estreito-abraao,605");
+                break;
+            case "6220 - Executivo Abraão":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/executivo-abraao,6220");
+                break;
+            case "630 - Corredor Continente":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/corredor-continente,630");
+                break;
+            case "631 - Capoeiras":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/capoeiras,631");
+                break;
+            case "660 - Aracy Vaz Callado":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/aracy-vaz-callado,660");
+                break;
+            case "661 - Balneário":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/balneario,661");
+                break;
+            case "663 - Coloninha":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/coloninha,663");
+                break;
+            case "664 - Itaguaçu":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/itaguacu,664");
+                break;
+            case "665 - Abraão":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/abraao,665");
+                break;
+            case "668 - Promorar via Ivo Silveira":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/promorar-via-ivo-silveira,668");
+                break;
+            case "670 - Monte Cristo":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/monte-cristo,670");
+                break;
+            case "671 - Vila/Promorar":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/vila-promorar,671");
+                break;
+            case "760 - Morro do Geraldo":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-do-geraldo,760");
+                break;
+            case "761 - Vila Aparecida":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/vila-aparecida,761");
+                break;
+            case "762 - Ângelo Laporta":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/angelo-laporta,762");
+                break;
+            case "763 - Caeira Saco dos Limões":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/caeira-do-saco-dos-limoes,763");
+                break;
+            case "764 - Monte Serrat":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/monte-serrat,764");
+                break;
+            case "765 - Morro da Queimada":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-da-queimada,765");
+                break;
+            case "766 - Morro do 25":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-do-25,766");
+                break;
+            case "768 - Morro do Horácio via Mauro Ramos":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-do-horacio-via-mauro-ramos,768");
+                break;
+            case "769 - Morro Nova Trento":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/morro-nova-trento,769");
+                break;
+            case "772 - Chico Mendes":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/chico-mendes,772");
+                break;
+            case "840 - TICAN-TILAG via Cidade da Barra":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tican-tilag-via-barra-da-lagoa,840");
+                break;
+            case "841 - TILAG-TIRIO":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-tirio,841");
+                break;
+            case "843 - TILAG-TIRIO via LIC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-tirio-via-lic,843");
+                break;
+            case "844 - Bairro de Fátima":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/bairro-de-fatima,844");
+                break;
+            case "845 - TILAG-TITRI via Córrego Grande":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-titri-via-corrego-grande,845");
+                break;
+            case "846 - Cacupé":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/cacupe,846");
+                break;
+            case "847 - TIRIO-TITRI via UFSC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tirio-titri-via-ufsc,847");
+                break;
+            case "850 - TILAG-Rio Vermelho via Cidade da Barra":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/tilag-rio-vermelho-via-cidade-da-barra,850");
+                break;
+            case "940 - Canasvieiras-Santo Antônio via Jurerê":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/canasvieiras-santo-antonio-via-jurere,940");
+                break;
+            case "941 - Canasvieiras-Santo Antônio via Ratones":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/canasvieiras-santo-antonio-via-ratones,941");
+                break;
+            case "943 - Saco dos Limões-Trindade":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/saco-dos-limoes-trindade,943");
+                break;
+            case "944 - Saco dos Limões-Trindade via Madre Benvenuta":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/saco-dos-limoes-trindade-via-m-benvenuta,944");
+                break;
+            case "946 - Jardim Atlântico-UFSC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/jardim-atlantico-ufsc,946");
+                break;
+            case "948 - Capoeiras-UFSC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/capoeiras-ufsc,948");
+                break;
+            case "949 - Abraão-UFSC":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/abraao-ufsc,949");
+                break;
+            case "D163 - Córrego Grande Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/corrego-grande-direto,D-163");
+                break;
+            case "D168 - Monte Verde Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/monte-verde-direto,D-168");
+                break;
+            case "D174 - Saco Grande Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/saco-grande-direto,D-174");
+                break;
+            case "D260 - Cachoeira Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/cachoeira-direto,D-260");
+                break;
+            case "D264 - Ingleses Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/ingleses-direto,D-264");
+                break;
+            case "D266 - Praia Brava Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/praia-brava-direto,D-266");
+                break;
+            case "D267 - Rio Vermelho Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/rio-vermelho-direto,D-267");
+                break;
+            case "D360 - Barra da Lagoa Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/barra-da-lagoa-direto,D-360");
+                break;
+            case "D365 - Sambaqui Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/sambaqui-direto,D-365");
+                break;
+            case "D563 - Costa de Dentro Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/costa-de-dentro-direto,D-563");
+                break;
+            case "D565 - Ribeirâo da Ilha Direto":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/ribeirao-da-ilha-direto,D-565");
+                break;
+            case "D846 - Cacupé via Gama D'Eça":
+                WebView.loadUrl("https://www.consorciofenix.com.br/horarios/cacupe-via-gama-deca,D-846");
+                break;
 
         }
 
